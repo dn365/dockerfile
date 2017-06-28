@@ -9,7 +9,7 @@
 ### 打开姿势
 
 ``` sh
-docker pull mritd/v2ray
+docker pull dn365/v2ray
 docker run -dt --name v2ray -p 10086:10086 dn365/v2ray
 ```
 
